@@ -10,7 +10,6 @@ class LocalStorageService {
           'vocabmaster_users_v1',
           'vocabmaster_progress_v1',
           'vocabmaster_language',
-          'vocabmaster_theme',
         },
       ),
     );

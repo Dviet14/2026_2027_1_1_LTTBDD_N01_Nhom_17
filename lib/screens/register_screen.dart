@@ -183,14 +183,6 @@ class _RegisterScreenState extends State<RegisterScreen> {
                     onPressed: _submit,
                     child: Text(strings.get('register')),
                   ),
-
-                  const SizedBox(height: 16),
-
-                  Text(
-                    strings.get('simulatedNote'),
-                    textAlign: TextAlign.center,
-                    style: Theme.of(context).textTheme.bodySmall,
-                  ),
                 ],
               ),
             ),

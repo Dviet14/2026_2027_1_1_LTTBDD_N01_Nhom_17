@@ -161,14 +161,6 @@ class _LoginScreenState extends State<LoginScreen> {
                     },
                     child: Text(strings.get('noAccount')),
                   ),
-
-                  const SizedBox(height: 8),
-
-                  Text(
-                    strings.get('simulatedNote'),
-                    textAlign: TextAlign.center,
-                    style: Theme.of(context).textTheme.bodySmall,
-                  ),
                 ],
               ),
             ),

@@ -17,7 +17,6 @@ class AppStrings {
       'noAccount': 'Chưa có tài khoản? Đăng ký',
       'logout': 'Đăng xuất',
       'registerSuccess': 'Đăng ký thành công. Chào mừng bạn.',
-      'simulatedNote': 'Tài khoản mô phỏng, dữ liệu sẽ mất khi đóng ứng dụng.',
 
       // Cài đặt tài khoản
       'accountSettings': 'Tài khoản',
@@ -167,7 +166,6 @@ class AppStrings {
       'noAccount': 'No account yet? Register',
       'logout': 'Log out',
       'registerSuccess': 'Registration successful. Welcome.',
-      'simulatedNote': 'Demo account only. Data is lost when the app closes.',
 
       // Account settings
       'accountSettings': 'Account',
